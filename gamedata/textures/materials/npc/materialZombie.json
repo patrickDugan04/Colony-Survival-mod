@@ -1,0 +1,15 @@
+{
+	"Name" : "Zombie",
+	"Width" : 2048,
+	"Height" : 2048,
+	"AlbedoMap" : "zorcalbedo.png",
+	"NormalMap" : "zorcnormal.png",
+	"SpecularityMap" : "zorcspec.png",
+	"EmissiveMap" : "zorcemissive.png",
+	"SmoothnessMap" : "zorcsmoothness.png",
+	"MaskMap" : 128,
+	"HeightMap" : 255,
+	"AlphaMap" : 255,
+	"MaskColor0" : "#000000",
+	"MaskColor1" : "#000000"
+}

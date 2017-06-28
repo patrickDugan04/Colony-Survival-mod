@@ -1,0 +1,4 @@
+Add steam ID's to this text file to whitelist them into the server.
+If there are no ID's in this file, whitelisting is turned off.
+ID's are mostly 17 numbers long; they seem to start with a 7 often.
+You can use a tool like steamidfinder to find the ID.

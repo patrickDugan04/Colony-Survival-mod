@@ -1,0 +1,9 @@
+{
+	"ServerName" : "Server from TOM",
+	"ServerIP" : "0.0.0.0",
+	"LaborerCost" : 50,
+	"NPCFoodUsePerHour" : 0.208333,
+	"NPCfoodUseMultiplierSiegeMode" : 6,
+	"SiegeModeThreshold" : 150,
+	"MaxPlayerCount" : 10
+}

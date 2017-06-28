@@ -1,0 +1,18 @@
+{
+	"Name" : "Forester",
+	"Width" : 2048,
+	"Height" : 2048,
+	"AlbedoMap" : "albedo.png",
+	"NormalMap" : "normal.png",
+	"SpecularityMap" : "spec.png",
+	"EmissiveMap" : 0,
+	"SmoothnessMap" : "smoothness.png",
+	"MaskMap" : "mask.png",
+	"HeightMap" : 255,
+	"AlphaMap" : 255,
+	"MaskColor0" : "#0000FF",
+	"MaskColor1" : "#567041",
+	"SpecialMap1Format" : "RGB24",
+	"SpecialMap2Format" : "RGB24",
+	"NormalFormat" : "RGB24"
+}
