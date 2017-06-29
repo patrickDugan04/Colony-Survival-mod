@@ -8,11 +8,11 @@
 		"requires" : [
 			{
 				"type" : "planks",
-				"amount" : 0
+				
 			},
 			{
 				"type" : "straw",
-				"amount" : 0
+				
 			}
 		],
 		"npcCraftable" : true
